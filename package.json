@@ -1,0 +1,24 @@
+{
+  "name": "crud_node_sql",
+  "version": "1.0.0",
+  "description": "Endpoints for node and sql crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabin6969/Node_SQL_CRUD.git"
+  },
+  "keywords": [
+    "Node",
+    "SQL",
+    "CRUD"
+  ],
+  "author": "Sabin Poudel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabin6969/Node_SQL_CRUD/issues"
+  },
+  "homepage": "https://github.com/sabin6969/Node_SQL_CRUD#readme"
+}
